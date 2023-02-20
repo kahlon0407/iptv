@@ -1,161 +1,161 @@
-#EXTM3U
-#EXTINF:-1 ,Unknown_1
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/ga/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml"
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欢笑剧场4K
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-4K
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV16-4K
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",4K60PSDR-H264-AAC测试
 http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-#EXTINF:-1 ,Unknown_5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",4K60PHLG-HEVC-EAC3测试
 http://159.75.85.63:5680/d/ad/playad.m3u8
-#EXTINF:-1 ,Unknown_6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-1 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-2 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-3 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-4 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-5 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_11
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV5+ 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_12
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-6 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_13
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-7 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_14
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-8 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_15
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-9 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_16
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-10 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_17
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-11 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_18
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-12 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_19
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-13 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_20
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-14 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_21
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-15 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_22
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-16 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_23
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-17 高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_24
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",东南卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_25
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",东方卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_26
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",云南卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_27
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",北京卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_28
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",吉林卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_29
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_30
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",天津卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_31
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",宁夏卫视
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_32
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",安徽卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_33
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",山西卫视
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_34
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",广东卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_35
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",广西卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_36
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",新疆卫视
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_37
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",江苏卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_38
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",江西卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",河北卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_40
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",河南卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_41
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_42
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",海南卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_43
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",深圳卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_44
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖北卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_45
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖南卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_46
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西藏卫视
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_47
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",贵州卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_48
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",辽宁卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_49
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",重庆卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_50
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",青海卫视
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_51
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",黑龙江卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_52
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",三沙卫视
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_53
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",教育卫视
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_54
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",兵团卫视
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_55
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",重庆新闻高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_56
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",重庆科教高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_57
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",重庆影视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_58
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",重庆文体娱乐高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_59
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",重庆少儿高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_60
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",重庆时尚生活高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_61
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",重庆新农村高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_62
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",家有购物
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/jygw/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_63
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV风云剧场
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_64
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",书画
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/shuhua/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_65
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",摄影
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/sheying/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_66
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",车迷频道
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/doxtv/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_67
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SiTV都市剧场高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_68
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SiTV魅力足球高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_69
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SiTV动漫秀场高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_70
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SiTV游戏风云高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/yxfyHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_71
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",求索纪录高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_72
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CHC高清电影
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_73
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CHC动作电影
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_74
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CHC家庭影院
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_75
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV风云剧场高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_76
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV风云音乐高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_77
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV风云足球高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_78
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV怀旧剧场高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_79
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV第一剧场高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
-#EXTINF:-1 ,Unknown_80
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV兵器科技高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
